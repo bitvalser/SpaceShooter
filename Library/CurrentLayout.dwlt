@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 5465
+  controlID: 51
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 5415
+  controlID: 52
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 5416
+  controlID: 53
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -364,9 +364,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 302a0000
     m_LastClickedID: 0
-    m_ExpandedIDs: a067fdff7a68fdff5269fdff806afdff1ca4ffffeafbffff00000000402d0000
+    m_ExpandedIDs: eafbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 423.09454, y: 1087.0696, z: -1352.0515}
+    m_Target: {x: 63.03125, y: 620.4375, z: -1456.5}
     speed: 2
-    m_Value: {x: 423.09454, y: 1087.0696, z: -1352.0515}
+    m_Value: {x: 63.03125, y: 620.4375, z: -1456.5}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -451,13 +451,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.3363407, y: -0.1302226, z: 0.04702397, w: 0.931522}
+    m_Target: {x: 0.34698874, y: -0.050610404, z: 0.018755544, w: 0.9363157}
     speed: 2
-    m_Value: {x: -0.3363407, y: 0.1302226, z: -0.04702397, w: -0.931522}
+    m_Value: {x: 0.3469885, y: -0.050610367, z: 0.018755531, w: 0.93631506}
   m_Size:
-    m_Target: 310.1538
+    m_Target: 591.1955
     speed: 2
-    m_Value: 310.1538
+    m_Value: 591.1955
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -531,20 +531,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Program Files (x86)\Unity\projects\Space war
+  m_LastProjectPath: D:\Program Files (x86)\Unity\projects\SpaceWarGit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 32}
-    m_SelectedIDs: e22c0000
-    m_LastClickedID: 11490
-    m_ExpandedIDs: 0000000054290000e6290000622b0000682c0000002f0000022f0000042f0000062f0000082f000000ca9a3bffffff7f
+    m_SelectedIDs: 222a0000
+    m_LastClickedID: 10786
+    m_ExpandedIDs: 0000000054290000e6290000682c0000002f0000022f0000042f0000062f0000082f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -572,7 +572,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000054290000e6290000622b0000682c0000002f0000022f0000042f0000062f0000082f000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000054290000e6290000622b0000682c0000002f0000022f0000042f0000062f0000082f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -599,7 +599,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000f65d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

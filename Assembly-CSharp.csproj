@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{38FBC82F-3BAF-6931-2351-32D747B74F1E}</ProjectGuid>
+    <ProjectGuid>{E5E68455-DA9A-E73D-C7F0-AE9C03919152}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -75,10 +75,10 @@
     <Compile Include="Assets\Simple Explosion\Scripts\PhysicalExplosion.cs" />
     <None Include="Assets\Simple Explosion\Shader\Exposion.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Program Files (x86)/Unity/projects/Space war/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Program Files (x86)/Unity/projects/SpaceWarGit/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Program Files (x86)/Unity/projects/Space war/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Program Files (x86)/Unity/projects/SpaceWarGit/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
