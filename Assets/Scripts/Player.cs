@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
 
@@ -13,6 +14,7 @@ public class Player : MonoBehaviour {
     public float fireRate;
     public GameObject TouchPad;
     private float nextFire;
+    public Slider slider;
 
     private void Start()
     {
@@ -31,6 +33,7 @@ public class Player : MonoBehaviour {
     private void FixedUpdate()
     {
         Vector3 move = Vector3.zero;
+        speed = slider.value;
 
         Vector2 direct = TouchPad.GetComponent<TouchPad>().getDirect();
         move = new Vector3(direct.x * speed * 1000 * Time.deltaTime, 0, direct.y * speed * 1000 * Time.deltaTime);
